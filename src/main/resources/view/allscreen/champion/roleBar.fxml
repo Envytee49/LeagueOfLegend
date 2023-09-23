@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="552.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.screencontroller.champion.filtercontroller.rolebar.RoleBarController">
+   <children>
+      <Button fx:id="assasinButton" layoutX="66.0" layoutY="1.0" mnemonicParsing="false" onAction="#showAssassin" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="ASSASSINS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="fighterButton" layoutX="146.0" layoutY="1.0" mnemonicParsing="false" onAction="#showFighter" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="FIGHTERS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="mageButton" layoutX="226.0" layoutY="1.0" mnemonicParsing="false" onAction="#showMage" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="MAGES">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="marksmenButton" layoutX="306.0" layoutY="1.0" mnemonicParsing="false" onAction="#showMarksmen" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="MARKSMEN">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="supportButton" layoutX="386.0" layoutY="1.0" mnemonicParsing="false" onAction="#showSupport" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="SUPPORTS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="tankButton" layoutX="466.0" layoutY="1.0" mnemonicParsing="false" onAction="#showTank" prefHeight="50.0" prefWidth="80.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="TANKS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="allButton" layoutX="14.0" layoutY="1.0" mnemonicParsing="false" onAction="#showAll" prefHeight="50.0" prefWidth="53.0" style="-fx-background-color: white;" styleClass="filterButton" stylesheets="@../../../css/style.css" text="ALL">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="championScreenText" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="170.0" prefWidth="1000.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.navigationcontroller.NavigationBarController">
+   <children>
+      <Label id="championText" alignment="CENTER" layoutX="413.0" prefHeight="54.0" prefWidth="174.0" style="-fx-font-weight: bold; -fx-font-style: italic; -fx-font-family: serif;" stylesheets="@../../../css/style.css" text="CHOOSE YOUR" />
+      <Label id="championText" alignment="CENTER" layoutX="310.0" layoutY="29.0" prefHeight="67.0" prefWidth="380.0" style="-fx-font-weight: bold; -fx-font-style: italic; -fx-font-family: serif; -fx-font-size: 59px;" stylesheets="@../../../css/style.css" text="CHAMPION">
+         <font>
+            <Font name="Goudy Old Style" size="17.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="298.0" layoutY="82.0" prefHeight="54.0" prefWidth="403.0" text="Whether you like to dive straight into the fray, support your teammates, &#10;or something in between, there’s a spot for you on the Rift.&#10;&#10;" textAlignment="CENTER" />
+      <fx:include layoutX="408.0" layoutY="136.0" source="switchToChampionButton.fxml" />
+   </children>
+</AnchorPane>

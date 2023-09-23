@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.media.MediaView?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1500.0" stylesheets="@../../../css/style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.detailcontroller.champion.ChampionDetailController">
+   <top>
+      <fx:include source="../../navigation/navigationBar.fxml" />
+   </top>
+   <center>
+      <ScrollPane BorderPane.alignment="CENTER">
+         <content>
+            <VBox fx:id="centerPane" prefWidth="1000.0">
+               <children>
+                  <AnchorPane prefWidth="1000.0" style="-fx-background-color: black;">
+                     <children>
+                        <ImageView fx:id="mainScreenImage" fitHeight="600.0" fitWidth="1000.0" pickOnBounds="true" preserveRatio="true" />
+                        <HBox prefHeight="600.0" prefWidth="1000.0" style="-fx-background-color: linear-gradient(transparent 80%, black 90%);" />
+                        <Label fx:id="title" alignment="CENTER" layoutY="450.0" prefWidth="1000.0" style="-fx-font-family: serif; -fx-font-weight: bold; -fx-text-fill: #c4b998; -fx-font-size: 20px; -fx-font-style: italic; -fx-alignment: center;" text="THE DARKIN BLADE" />
+                        <HBox alignment="CENTER" layoutY="500.0" prefWidth="1000.0" />
+                        <Label fx:id="name" alignment="CENTER" layoutY="470.0" prefWidth="1000.0" style="-fx-font-family: serif; -fx-font-size: 70; -fx-font-weight: bold; -fx-font-style: italic; -fx-text-fill: linear-gradient(to bottom, rgb(103, 71, 31), rgb(203, 172, 98)); -fx-alignment: center;" text="AATROX">
+                           <textFill>
+                              <LinearGradient endX="1.0" endY="1.0">
+                                 <stops>
+                                    <Stop>
+                                       <color>
+                                          <Color />
+                                       </color>
+                                    </Stop>
+                                    <Stop offset="1.0">
+                                       <color>
+                                          <Color red="1.0" green="1.0" blue="1.0" />
+                                       </color>
+                                    </Stop>
+                                 </stops>
+                              </LinearGradient>
+                           </textFill>
+                        </Label>
+                        <Label layoutX="300.0" layoutY="550.0" style="-fx-font-weight: bold;" text="ROLE" textFill="#937341" />
+                        <Label layoutX="650.0" layoutY="550.0" style="-fx-font-weight: bold;" text="DIFFICULTY" textFill="#937341" />
+                        <HBox alignment="CENTER" layoutX="240.0" layoutY="570.0" prefWidth="150.0">
+                           <children>
+                              <Label fx:id="role" text="ASSASIN" textFill="#c4b998">
+                                 <font>
+                                    <Font size="10.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox alignment="CENTER" layoutX="607.0" layoutY="570.0" prefWidth="150.0">
+                           <children>
+                              <Label fx:id="difficulty" text="HARD" textFill="#c4b998">
+                                 <font>
+                                    <Font size="10.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                        <HBox alignment="CENTER" layoutY="600.0" prefWidth="1000.0">
+                           <children>
+                              <Label fx:id="description" text="HELOOOOOOOO" textAlignment="CENTER" textFill="#c4b998">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                     </children>
+                  </AnchorPane>
+                  <HBox prefHeight="50.0" prefWidth="1000.0" style="-fx-background-color: black;" />
+                  <AnchorPane prefWidth="1000.0" style="-fx-background-color: black;">
+                     <children>
+                        <Label layoutX="50.0" style="-fx-font-family: serif; -fx-font-weight: bold; -fx-font-style: italic; -fx-text-fill: linear-gradient(to bottom, rgb(103, 71, 31), rgb(203, 172, 98));" text="ABILITIES" textFill="#c4b998">
+                           <font>
+                              <Font size="50.0" />
+                           </font>
+                        </Label>
+                        <HBox layoutX="50.0" layoutY="70.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" spacing="20.0" style="-fx-background-color: black;">
+                           <children>
+                              <Button fx:id="passiveButton" mnemonicParsing="false" onAction="#switchPassive" prefHeight="68.0" prefWidth="70.0" styleClass="abilityButton" stylesheets="@../../../css/style.css">
+                                 <graphic>
+                                    <ImageView fx:id="passiveImage" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" />
+                                 </graphic>
+                              </Button>
+                              <Button fx:id="qButton" mnemonicParsing="false" onAction="#switchQ" prefHeight="68.0" prefWidth="70.0" styleClass="abilityButton" stylesheets="@../../../css/style.css">
+                                 <graphic>
+                                    <ImageView fx:id="qImage" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" />
+                                 </graphic>
+                              </Button>
+                              <Button fx:id="wButton" mnemonicParsing="false" onAction="#switchW" prefHeight="68.0" prefWidth="70.0" styleClass="abilityButton" stylesheets="@../../../css/style.css">
+                                 <graphic>
+                                    <ImageView fx:id="wImage" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" />
+                                 </graphic>
+                              </Button>
+                              <Button fx:id="eButton" mnemonicParsing="false" onAction="#switchE" prefHeight="68.0" prefWidth="70.0" styleClass="abilityButton" stylesheets="@../../../css/style.css">
+                                 <graphic>
+                                    <ImageView fx:id="eImage" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" />
+                                 </graphic>
+                              </Button>
+                              <Button fx:id="rButton" mnemonicParsing="false" onAction="#switchR" prefHeight="68.0" prefWidth="70.0" styleClass="abilityButton" stylesheets="@../../../css/style.css">
+                                 <graphic>
+                                    <ImageView fx:id="rImage" fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true" />
+                                 </graphic>
+                              </Button>
+                           </children>
+                        </HBox>
+                        <Label fx:id="ability" layoutX="50.0" layoutY="150.0" text="Q" textFill="#dcd5c0" />
+                        <Label fx:id="abilityName" layoutX="50.0" layoutY="167.0" style="-fx-font-weight: bold;" text="THE DARKIN BLADE" textFill="#937341">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="abilityDescription" layoutX="50.0" layoutY="195.0" text="Aatrox slams his greatsword down, dealing physical damage. He can swing three times, &#10;each with a different area of effect." textFill="#c4b998">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </Label>
+                        <MediaView fx:id="abilityVideo" fitHeight="400.0" fitWidth="400.0" layoutX="560.0" layoutY="50.0" />
+                        <ImageView fx:id="noDisplay" fitHeight="270.0" fitWidth="400.0" layoutX="560.0" layoutY="50.0" pickOnBounds="true">
+                           <image>
+                              <Image url="@../../../image/no%20display.png" />
+                           </image>
+                        </ImageView>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="270.0" layoutX="560.0" layoutY="50.0" stroke="BLACK" strokeType="INSIDE" style="-fx-fill: transparent; -fx-stroke: #b1aaaa;" width="400.0" />
+                     </children>
+                  </AnchorPane>
+                  <HBox prefHeight="50.0" prefWidth="1000.0" style="-fx-background-color: black;" />
+               </children>
+            </VBox>
+         </content>
+      </ScrollPane>
+   </center>
+   <left>
+      <ScrollPane style="-fx-background-color: black;" BorderPane.alignment="CENTER">
+         <content>
+            <AnchorPane prefHeight="600.0" prefWidth="250.0" style="-fx-background-color: black;">
+               <children>
+                  <FlowPane fx:id="relatedChampFlowPane" columnHalignment="CENTER" hgap="30.0" prefWidth="250.0" prefWrapLength="50.0" style="-fx-background-color: black;" vgap="10.0">
+                     <children>
+                        <AnchorPane prefHeight="50.0" prefWidth="250.0" style="-fx-background-color: black; -fx-border-color: #c4b998;">
+                           <children>
+                              <Label fx:id="relatedLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="1.0" layoutY="18.0" prefHeight="14.0" prefWidth="250.0" style="-fx-font-family: serif;" text="RELATED CHAMPIONS" textAlignment="CENTER" textFill="#c4b998" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </FlowPane>
+               </children>
+            </AnchorPane>
+         </content>
+      </ScrollPane>
+   </left>
+   <right>
+      <AnchorPane maxWidth="252.0" minWidth="252.0" prefHeight="600.0" prefWidth="250.0" style="-fx-background-color: black;" BorderPane.alignment="CENTER">
+         <children>
+            <VBox style="-fx-border-color: #c4b998;">
+               <children>
+                  <Label fx:id="relatedLabel111" alignment="CENTER" contentDisplay="CENTER" prefHeight="32.0" prefWidth="247.0" style="-fx-font-family: serif;" text="REGION" textAlignment="CENTER" textFill="#937341" />
+                  <Label fx:id="regionText" alignment="CENTER" contentDisplay="CENTER" prefHeight="18.0" prefWidth="250.0" style="-fx-font-family: serif;" text="RUNNETERA" textFill="#c4b998" />
+               </children>
+            </VBox>
+            <AnchorPane layoutY="48.0" prefHeight="403.0" prefWidth="252.8" style="-fx-border-color: transparent  #c4b998  #c4b998#c4b998;">
+               <children>
+                  <ImageView fx:id="regionImage" fitHeight="250.0" fitWidth="180.0" layoutX="37.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/Region/Bandle%20City/logo.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+            <VBox layoutY="470.0" prefHeight="74.0" prefWidth="254.0" style="-fx-border-color: #c4b998;">
+               <children>
+                  <Label fx:id="relatedLabel1111" alignment="CENTER" contentDisplay="CENTER" prefHeight="32.0" prefWidth="247.0" style="-fx-font-family: serif;" text="SPECIES" textAlignment="CENTER" textFill="#937341" />
+                  <FlowPane fx:id="speciesFlowPane" hgap="10.0" prefWidth="243.0" prefWrapLength="200.0" />
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </right>
+</BorderPane>

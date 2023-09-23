@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="78.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.FooController">
+   <children>
+      <Label layoutX="278.0" layoutY="33.0" text="Clear your lane, dive into epic 5v5 team fights, and destroy the enemy nexus before &#10;they destroy yours." textAlignment="CENTER" textFill="WHITE" />
+      <Label layoutX="394.0" layoutY="14.0" style="-fx-font-weight: bold;" text="THE MOST POPULAR GAME MODE" textFill="WHITE">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,90 @@
+/* Menu button */
+#waitScreenButton {
+    -fx-background-color : rgb(11, 198, 227);
+    -fx-border-color: white;
+    -fx-padding: 10px;
+    -fx-alignment: BASELINE_LEFT;
+    -fx-font-family : "Arial Narrow";
+    -fx-font-size : 14px;
+    -fx-font-weight : bold;
+}
+#waitScreenButton:hover
+{
+    -fx-background-color: rgb(19, 216, 246);
+}
+#championScreenText
+{
+    -fx-background-color : white;
+}
+#nameButton  {
+    -fx-font-family : "Trebuchet MS";
+    -fx-text-fill : white;
+    -fx-background-color : rgb(6, 28, 37);
+    -fx-font-size : 14px;
+    -fx-font-weight : bold;
+    -fx-padding : 10 0;
+}
+#nameButton:hover, #navigationButton:hover {
+    -fx-background-color :rgb(19, 216, 246);
+    -fx-text-fill : rgb(6, 28, 37);
+}
+#navigationButton, #navigationBar {
+    -fx-background-color :  rgb(6, 28, 37);
+}
+#navigationButton {
+    -fx-text-fill : white;
+    -fx-font-weight : bold;
+}
+#roleButton, .filterButton {
+    -fx-border-color: transparent transparent rgb(177,170,170) transparent;
+    -fx-text-fill : grey;
+    -fx-border-width : 1px;
+}
+#roleButton:hover  {
+    -fx-text-fill : black;
+}
+#roleButton:focused {
+    -fx-text-fill: black;
+}
+.gameplayButton {
+    -fx-background-color : rgb(11, 198, 227);
+}
+.gameplayButton:hover {
+    -fx-background-color: rgb(19, 216, 246);
+}
+.filterButton:hover{
+    -fx-text-fill : black;
+    -fx-border-color: transparent transparent rgb(255,176,0) transparent;
+}
+
+#focused-filter-role {
+    -fx-background-color : transparent;
+    -fx-text-fill : black;
+    -fx-border-color: transparent transparent rgb(255,176,0) transparent;
+}
+#focused-ability-button {
+    -fx-background-color : black
+    -fx-border-color : rgb(255,196,54)
+}
+.abilityButton:hover, .abilityButton:focused {
+    -fx-border-color : rgb(255,196,54)
+}
+.abilityButton {
+    -fx-background-color : black
+}
+#imageCircle:hover {
+    -fx-stroke : rgb(147,115,65);
+}
+
+#region-related-champ-image:hover{
+    -fx-border-color :  rgb(147,115,65);
+}
+ #vbox-image-mainscreen:hover {
+    -fx-border-color : rgb(147,115,65);
+ }
+#regionPane:hover{
+    -fx-border-color:c4b998;
+}
+#difficultyBar {
+    -fx-margin-left: 20;
+}

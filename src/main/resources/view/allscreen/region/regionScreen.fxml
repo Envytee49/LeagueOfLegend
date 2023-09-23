@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" stylesheets="@../../../css/style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.screencontroller.region.RegionScreenController">
+   <top>
+      <fx:include source="../../navigation/navigationBar.fxml" />
+   </top>
+   <center>
+      <ScrollPane style="-fx-background-color: black;" BorderPane.alignment="CENTER">
+         <content>
+            <VBox style="-fx-background-color: black;">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="100.0" prefWidth="1000.0" style="-fx-font-family: serif; -fx-font-weight: bold; -fx-text-fill: linear-gradient(to bottom, rgb(103, 71, 31), rgb(203, 172, 98));" text="RUNETERRA" textFill="#f0e6d2">
+                     <font>
+                        <Font size="60.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" prefWidth="1000.0" style="-fx-font-family: serif; -fx-font-style: italic;" text="&quot;Immerse yourself in the enchanting world of Runeterra,&#10; where magic and adventure intertwine, and legends are born.&quot;" textAlignment="CENTER" textFill="#f0e6d2">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Label>
+                  <ImageView fitHeight="42.0" fitWidth="1000.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../image/t1HeaderDivider.png" />
+                     </image>
+                  </ImageView>
+                  <FlowPane fx:id="regionFlowpane" hgap="20.0" prefWidth="1000.0" vgap="10.0" />
+               </children>
+            </VBox>
+         </content>
+      </ScrollPane>
+   </center>
+</BorderPane>

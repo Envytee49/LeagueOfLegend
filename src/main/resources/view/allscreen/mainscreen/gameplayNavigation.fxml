@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="345.0" prefWidth="257.0" spacing="10.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane prefWidth="300.0">
+         <children>
+            <Label layoutX="10.0" layoutY="37.0" prefHeight="34.0" prefWidth="238.0" style="-fx-background-color: transparent;" text="SUMMONER'S &#10;RIFT" textAlignment="CENTER">
+               <font>
+                  <Font size="11.0" />
+               </font>
+            </Label>
+            <Button id="srButton" fx:id="srButton" contentDisplay="CENTER" layoutX="92.0" mnemonicParsing="false" onAction="#switchToSR" prefHeight="100.0" prefWidth="100.0" styleClass="gameplayButton" stylesheets="@../../../css/style.css">
+               <graphic>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/summonersrift.jpg" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
+         </children>
+      </AnchorPane>
+      <AnchorPane>
+         <children>
+            <Label layoutX="10.0" layoutY="36.0" prefHeight="34.0" prefWidth="238.0" text="THE&#10;HOWLINGABYSS" textAlignment="CENTER">
+               <font>
+                  <Font size="11.0" />
+               </font>
+            </Label>
+            <Button id="arButton" fx:id="arButton" layoutX="92.0" mnemonicParsing="false" onAction="#switchToAR" prefHeight="100.0" prefWidth="100.0" styleClass="gameplayButton" stylesheets="@../../../css/style.css">
+               <graphic>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/howlingabyss.jpg" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+      <AnchorPane>
+         <children>
+            <Label layoutX="10.0" layoutY="36.0" prefHeight="34.0" prefWidth="238.0" text="TEAMFIGHT&#10;TACTICS" textAlignment="CENTER">
+               <font>
+                  <Font size="11.0" />
+               </font>
+            </Label>
+            <Button id="tftButton" fx:id="tftButton" layoutX="92.0" mnemonicParsing="false" onAction="#switchToTFT" prefHeight="100.0" prefWidth="100.0" styleClass="gameplayButton" stylesheets="@../../../css/style.css">
+               <graphic>
+                  <ImageView fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/teamfighttactics.jpg" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

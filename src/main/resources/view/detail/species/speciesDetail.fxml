@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="1000.0" minHeight="-Infinity" minWidth="1000.0" prefHeight="600.0" prefWidth="1000.0" stylesheets="@../../../css/style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.detailcontroller.species.SpeciesDetailController">
+   <top>
+      <fx:include source="../../navigation/navigationBar.fxml" />
+   </top>
+   <center>
+      <ScrollPane prefWidth="1000.0" BorderPane.alignment="CENTER">
+         <content>
+            <VBox prefWidth="1000.0">
+               <children>
+                  <AnchorPane fx:id="topAnchorpane" prefWidth="1000.0" style="-fx-background-color: black;">
+                     <children>
+                        <ImageView fx:id="backgroundImage" fitHeight="624.0" fitWidth="1018.0" layoutY="-1.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../image/Species/Aspect/logo.png" />
+                           </image>
+                        </ImageView>
+                        <HBox alignment="CENTER" layoutY="283.0" prefHeight="350.0" prefWidth="1000.0" style="-fx-background-color: linear-gradient(to bottom, transparent, black);" />
+                        <Label fx:id="name" alignment="CENTER" layoutX="4.0" layoutY="350.0" prefWidth="1000.0" style="-fx-text-fill: linear-gradient(to bottom, rgb(103, 71, 31), rgb(203, 172, 98)); -fx-font-family: serif;" text="ASPECT">
+                           <font>
+                              <Font size="94.0" />
+                           </font>
+                        </Label>
+                        <ImageView fitHeight="50.0" fitWidth="1000.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../image/t1HeaderDivider.png" />
+                           </image>
+                        </ImageView>
+                        <HBox alignment="CENTER" layoutY="230.0" prefWidth="1000.0" />
+                        <HBox alignment="CENTER" layoutY="500.0" prefWidth="1000.0">
+                           <children>
+                              <Label fx:id="description" alignment="CENTER" prefWidth="1000.0" style="-fx-font-family: courier new;" text="Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals &#10;claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of &#10;a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...&#10;In Bandle City, it is said that every sensation is heightened for non-yordles. Colors are brighter. Food and drink&#10; intoxicates the senses for years and, once tasted, will never be forgotten. The sunlight is eternally golden,&#10; the waters crystal clear, and every harvest brings a fruitful bounty. Perhaps some of these claims are true, &#10;or maybe none—for no two taletellers ever seem to agree on what they actually saw.Only one thing is&#10; known for certain, and that is the timeless quality of Bandle City and its inhabitants. This might explain &#10;why those mortals who find their way back often appear to have aged tremendously, while many more never return at all." textFill="#c4b998">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefWidth="1000.0" style="-fx-background-color: black;">
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="150.0" prefWidth="1000.0">
+                           <children>
+                              <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../../../image/content_type_icon_champion__3nwJQ.png" />
+                                 </image>
+                              </ImageView>
+                           </children>
+                        </HBox>
+                        <HBox alignment="CENTER" layoutY="100.0" prefWidth="1000.0">
+                           <children>
+                              <Label style="-fx-font-family: serif;" text="CHAMPIONS OF " textFill="#c4b998">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="speciesText" style="-fx-font-family: serif; -fx-font-style: italic;" text=" BILGEWATER" textFill="#c4b998">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                     </children>
+                  </AnchorPane>
+                  <FlowPane fx:id="relatedChampFlowPane" hgap="10.0" prefWidth="1000.0" style="-fx-background-color: black;" vgap="20.0" />
+               </children>
+            </VBox>
+         </content>
+      </ScrollPane>
+   </center>
+</BorderPane>

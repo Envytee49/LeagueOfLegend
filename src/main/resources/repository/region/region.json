@@ -1,0 +1,388 @@
+[
+  {
+    "demonym": {
+      "Bandle": 0
+    },
+    "establishmentHistory": {
+      "Bandle City (Pre 9000 BN - Present)": 0,
+      "Creation of the Gateways (Pre 9000 BN)": 0,
+      "The Formation (Pre 9000 BN)": 0
+    },
+    "id": 1,
+    "name": "Bandle City",
+    "description": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...",
+    "relatedChampions": {
+      "Corki": 22,
+      "Rumble": 107,
+      "Lulu": 72,
+      "Tristana": 132,
+      "Yuumi": 157,
+      "Teemo": 130,
+      "Norra": 0,
+      "Veigar": 141
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Bandle_City_Crest.png/revision/latest?cb\u003d20190415230719"
+  },
+  {
+    "demonym": {
+      "Demacian": 0
+    },
+    "establishmentHistory": {
+      "Kingdom of Demacia (292 AN - Present)": 0,
+      "Rune Wars (25 BN - 3 BN)": 0,
+      "Demacian Uprising (996 AN - Present)": 0,
+      "Founding of Demacia (0 AN - 292 AN)": 0
+    },
+    "id": 2,
+    "name": "Demacia",
+    "description": "A strong, lawful kingdom with a prestigious military history, Demacia\u0027s people have always valued the ideals of justice, honor, and duty most highly, and are fiercely proud of their cultural heritage. But in spite of these lofty principles, this largely self-sufficient nation has grown more insular and isolationist in recent centuries.",
+    "relatedChampions": {
+      "Jarvan IV": 47,
+      "Poppy": 95,
+      "Xin Zhao": 153,
+      "Sona": 121,
+      "Quinn": 98,
+      "Vayne": 140,
+      "Galio": 34,
+      "Lux": 73,
+      "Fiora": 32,
+      "Kayle": 59,
+      "Sylas": 124,
+      "Lucian": 71,
+      "Garen": 36,
+      "Morgana": 81,
+      "Shyvana": 116
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Demacia_Crest.png/revision/latest?cb\u003d20180116201503"
+  },
+  {
+    "demonym": {
+      "Freljordian": 0
+    },
+    "establishmentHistory": {
+      "War of the Three Sisters (8000 BN)": 0,
+      "Rune Wars (25 BN - 3 BN)": 0,
+      "Founding of the Freljord (± 9000 BN - 8000 BN)": 0,
+      "Founding of the Vorrijaard (∞ BN - ± 9000 BN)": 0,
+      "Tribalism (8000 BN - Present) Rune Wars (25 BN - 3 BN)": 0
+    },
+    "id": 3,
+    "name": "Freljord",
+    "description": "The Freljord (pronounced /\u0027fɹɛɫjɔɹd/ frell-yord) is a harsh and unforgiving land. Proud and fiercely independent, its people are born warriors, with a strong raiding culture. While there are many individual tribes within the Freljord, the battle lines are being drawn in a three-way civil war that will determine the future of them all. One tribe unflinchingly honors the traditions that have ensured its survival; another follows the dream of a united future, as foretold by a young idealist; while the third worships the power of an enigmatic sorceress. Freljord is also the only place where True Ice can be found. [1]",
+    "relatedChampions": {
+      "Udyr": 137,
+      "Ornn": 93,
+      "Olaf": 91,
+      "Tryndamere": 134,
+      "Lissandra": 70,
+      "Nunu": 0,
+      "Ashe": 10,
+      "Volibear": 148,
+      "Sejuani": 110,
+      "Anivia": 7,
+      "Gnar": 37,
+      "Braum": 17,
+      "Trundle": 133,
+      "Gragas": 38
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Freljord_crest.png/revision/latest/scale-to-width-down/350?cb\u003d20161117021436"
+  },
+  {
+    "demonym": {
+      "Ionian": 0
+    },
+    "establishmentHistory": {
+      "Rune Wars (25 BN 3 BN)": 0,
+      "Ancient Ionia (Pre 9000 BN)": 0,
+      "Noxian-Ionian War (984 AN - 989 AN)": 0,
+      "Titan War (9000 BN - 8000 BN)": 0
+    },
+    "id": 4,
+    "name": "Ionia",
+    "description": "Ionia, in original Vastayan nomenclature: The First Lands, is a land of unspoiled beauty and natural magic. Its inhabitants, living in scattered settlements across this massive archipelago, are a spiritual people who seek to live in harmony and balance with the world. There are many orders and sects across Ionia, each following their own (often conflicting) paths and ideals. Self-sufficient and isolationist, Ionia has remained largely neutral in the wars that have ravaged Valoran over the centuries - until it was invaded by Noxus. This brutal conflict and occupation has forced Ionia to reassess its place in the world. How it reacts and the future path Ionia will follow is as of yet undetermined, however, animosity against Noxus has led to militarization and vigilantism. Thirst for the dark arts is on the rise.",
+    "relatedChampions": {
+      "Jhin": 50,
+      "Ahri": 2,
+      "Wukong": 150,
+      "Master Yi": 77,
+      "Yone": 155,
+      "Kayn": 60,
+      "Varus": 139,
+      "Irelia": 44,
+      "Ivern": 45,
+      "Yasuo": 154,
+      "Akali": 3,
+      "Xayah": 151,
+      "Sett": 113,
+      "Syndra": 125,
+      "Lee Sin": 67,
+      "Rakan": 99,
+      "Zed": 159,
+      "Shen": 115,
+      "Kennen": 61,
+      "Karma": 55,
+      "Lillia": 69
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Ionia_Crest.png/revision/latest?cb\u003d20161117020756"
+  },
+  {
+    "demonym": {
+      "Ixtali": 0
+    },
+    "establishmentHistory": {
+      "Isolationism (2000 BN - Present)": 0,
+      "Westward Migration (6000 BN - 5000 BN)": 0,
+      "Empire of Shurima (5000 BN - 2500 BN)": 0,
+      "Void War (2500 BN - 2000 BN)": 0
+    },
+    "id": 5,
+    "name": "Ixtal",
+    "description": "Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older—part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon—and it is likely they played a significant role in the creation of the first Ascended.",
+    "relatedChampions": {
+      "Zyra": 164,
+      "Nidalee": 87,
+      "Malphite": 74,
+      "Milio": 78,
+      "Neeko": 86,
+      "Qiyana": 97,
+      "Rengar": 105
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Ixtal_Crest.png/revision/latest/scale-to-width-down/350?cb\u003d20190613153702"
+  },
+  {
+    "demonym": {
+      "Targonian": 0
+    },
+    "establishmentHistory": {
+      "Great Darkin War (2000 BN - 550 BN)": 0,
+      "Rune Wars (25 BN - 3 BN)": 0,
+      "Westward Migration (6000 BN - 5000 BN)": 0,
+      "Void War (2500 BN - 2000 BN)": 0
+    },
+    "id": 6,
+    "name": "Targon",
+    "description": "Like any place of myth, Mount Targon is a beacon to dreamers, madmen and questors of adventure. A mountainous and sparsely inhabited region to the west of Shurima, Targon boasts the tallest peak in Runeterra. Located far from civilization, Mount Targon is all but impossible to reach, save by the most determined pilgrims, chasing some soul-deep yearning to reach its summit. Those hardy few who survive the arduous journey to the foot of the titanic mountain find a sky shimmering with celestial bodies; the sun and moons, but also constellations, planets, fiery comets that streak the darkness, and auspicious arrangements of stars. They return haunted and empty, or changed beyond all recognition. The people living at the mountain\u0027s base believe these to be aspects of long-vanished stellar beings, creatures powerful and ancient on a scale beyond human comprehension.[1] However, Mount Targon is simply a way into the celestial realm, and it would be wrong to attribute much in the way of mortal sensibilities, morals or concerns to what lies beyond the mountain.[2]",
+    "relatedChampions": {
+      "Diana": 24,
+      "Pantheon": 94,
+      "Zoe": 163,
+      "Soraka": 122,
+      "Taric": 129,
+      "Leona": 68,
+      "Aurelion Sol": 11,
+      "Aphelios": 9
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Targon_Crest.png/revision/latest/scale-to-width-down/350?cb\u003d20161117025619"
+  },
+  {
+    "demonym": {
+      "Noxian": 0
+    },
+    "establishmentHistory": {
+      "Establishment of the Trifarix (990 AN)": 0,
+      "Rune Wars (25 BN - 3 BN)": 0,
+      "Noxian-Ionian War (984 AN - 989 AN)": 0,
+      "Noxii Tribes (Pre 550 BN)": 0,
+      "Reign Of The Iron Revenant (550 BN - 100 BN)": 0,
+      "Founding of Noxus (0 AN)": 0,
+      "Demacian-Noxian War (± 787 AN - ± 945 AN)": 0
+    },
+    "id": 7,
+    "name": "Noxus",
+    "description": "Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, Noxus is brutal, expansionist, and threatening, yet those who look beyond its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated. Its people were once a fierce reaver culture until they stormed the ancient city that now lies at the heart of their empire. Under threat from all sides, they aggressively took the fight to their enemies, pushing their borders outward with every passing year. This struggle for survival has made the Noxians a deeply proud people who value strength above all, though that strength can manifest by many different means. Anyone can rise to a position of power and respect within Noxus if they display the necessary aptitude, regardless of social standing, background, homeland, or wealth.",
+    "relatedChampions": {
+      "Kled": 64,
+      "Cassiopeia": 20,
+      "Darius": 23,
+      "Swain": 123,
+      "Draven": 26,
+      "Sion": 118,
+      "Talon": 128,
+      "LeBlanc": 66,
+      "Rell": 102,
+      "Samira": 109,
+      "Vladimir": 147,
+      "Mordekaiser": 80,
+      "Briar": 0,
+      "Riven": 106,
+      "Katarina": 58
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Noxus_Crest.png/revision/latest?cb\u003d20161117055949"
+  },
+  {
+    "demonym": {
+      "Piltie (Informal)": 0,
+      "Piltovan": 0,
+      "Topsider": 0
+    },
+    "establishmentHistory": {
+      "Connected Cities (772 AN - Present)": 0
+    },
+    "id": 8,
+    "name": "Piltover",
+    "description": "Piltover, also known as the City of Progress, is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u0027s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u0027s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over.",
+    "relatedChampions": {
+      "Camille": 19,
+      "Vi": 144,
+      "Jayce": 49,
+      "Ezreal": 30,
+      "Heimerdinger": 42,
+      "Seraphine": 112,
+      "Orianna": 92,
+      "Caitlyn": 18
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Piltover_Crest.png/revision/latest?cb\u003d20161117163225"
+  },
+  {
+    "demonym": {
+      "Bilgerat": 0
+    },
+    "establishmentHistory": {
+      "Modern Migration (772 AN - 787 AN)": 0,
+      "Bilgewater (787 AN - Present)": 0,
+      "Rune Wars (25 BN -3 BN)": 0,
+      "Westward Migration (6000 BN - 5000 BN)": 0,
+      "Serpent Isles (5000 BN - Present)": 0
+    },
+    "id": 9,
+    "name": "Bilgewater",
+    "description": "Bilgewater is a haven for smugglers, marauders, and the unscrupulous, where fortunes are made and ambitions shattered in the blink of an eye. For those fleeing justice, debt, or persecution, it is a city of new beginnings; no one on the twisted streets of Bilgewater cares about your past. It\u0027s a melting pot of cultures, races, and creeds, alive with activity at all hours.",
+    "relatedChampions": {
+      "Nautilus": 85,
+      "Fizz": 33,
+      "Graves": 39,
+      "Illaoi": 43,
+      "Nilah": 88,
+      "Gangplank": 35,
+      "Miss Fortune": 79,
+      "Pyke": 96,
+      "Twisted Fate": 135,
+      "Jack": 0,
+      "Tahm Kench": 126
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Bilgewater_Crest.png/revision/latest?cb\u003d20161117042614"
+  },
+  {
+    "demonym": {
+      "Unknown": 0
+    },
+    "establishmentHistory": {
+      "Shadow Isles (25 BN - Present)": 0,
+      "Westward Migration (6000 BN - 5000 BN)": 0,
+      "The Ruination (25 BN)": 0,
+      "Blessed Isles (5000 BN - 25 BN)": 0,
+      "Return of the Ruined King (997 AN - Present)": 0
+    },
+    "id": 10,
+    "name": "Shadow Isles",
+    "description": "The land now known as the Shadow Isles was once a beautiful realm, but it was shattered by a magical cataclysm. Black Mist permanently shrouds the isles and the land itself is tainted, corrupted by malevolent sorcery. Living beings that stand upon the Shadow Isles slowly have their life-force leeched from them, which, in turn, draws the insatiable, predatory spirits of the dead. Those who perish within the Black Mist are condemned to haunt this melancholy land for eternity. Worse, the power of the Shadow Isles is waxing stronger with every passing year, allowing the shades of undeath to extend their range and reap souls all across Runeterra.",
+    "relatedChampions": {
+      "Hecarim": 41,
+      "Kalista": 54,
+      "Yorick": 156,
+      "Viego": 145,
+      "Karthus": 56,
+      "Maokai": 76,
+      "Vex": 143,
+      "Thresh": 131,
+      "Elise": 28,
+      "Gwen": 40
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Shadow_Isles_Crest.png/revision/latest?cb\u003d20161117061207"
+  },
+  {
+    "demonym": {
+      "Shuriman": 0
+    },
+    "establishmentHistory": {
+      "Fall of Shurima (2500 - 2000 BN)": 0,
+      "Golden Age of Shurima (5000 - 3400 BN)": 0,
+      "Revival of the Sun Disc (989 AN - Present)": 0,
+      "Great Darkin War (2000 - 550 BN)": 0,
+      "Void War (2500 - 2000 BN)": 0,
+      "Rune Wars (25 - 3 BN)": 0,
+      "Westward Migration (6000 - 5000 BN)": 0
+    },
+    "id": 11,
+    "name": "Shurima",
+    "description": "The empire of Shurima was once a thriving civilization that spanned a vast desert. After an era of growth and prosperity, the fall of its gleaming capital left the empire in ruins. Over millennia, tales of Shurima\u0027s glorious city became myth and religion among the descendants of the scattered survivors.",
+    "relatedChampions": {
+      "Taliyah": 127,
+      "Amumu": 6,
+      "Nasus": 84,
+      "Akshan": 4,
+      "K\u0027Sante": 52,
+      "Rammus": 100,
+      "Sivir": 119,
+      "Skarner": 120,
+      "Azir": 12,
+      "Renekton": 104,
+      "Xerath": 152
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Shuriman_Crest.png/revision/latest/scale-to-width-down/350?cb\u003d20161117023625"
+  },
+  {
+    "demonym": {
+      "Voidling": 0,
+      "Voidspawn (Constructs)": 0
+    },
+    "establishmentHistory": {
+      "Three Sisters (9000 BN - 8000 BN)": 0,
+      "Corruption (2000 BN - Present)": 0,
+      "Pre-Living Universe (Pre 9000 BN)": 0,
+      "Frozen Watchers (8000 BN - Present)": 0,
+      "Void War (2500 BN - 2000 BN)": 0
+    },
+    "id": 12,
+    "name": "Void",
+    "description": "Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.",
+    "relatedChampions": {
+      "Kai\u0027Sa": 53,
+      "Cho\u0027Gath": 21,
+      "Kha\u0027Zix": 62,
+      "Rek\u0027Sai": 101,
+      "Kog\u0027Maw": 65,
+      "Kassadin": 57,
+      "Vel\u0027Koz": 142,
+      "Bel\u0027Veth": 14,
+      "Malzahar": 75
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cb/Void_Crest.png/revision/latest/scale-to-width-down/350?cb\u003d20180801201707"
+  },
+  {
+    "demonym": {
+      "Zaunite": 0,
+      "Fissurefolk": 0,
+      "Trencher": 0,
+      "Sumprat ( Informal, Derogatory)": 0
+    },
+    "establishmentHistory": {
+      "Age of Progress (349 AN - 772 AN)": 0,
+      "Kha\u0027zhun (2000 BN - Unknown)": 0,
+      "Oshra Va\u0027Zaun (5000 BN - 2000 BN)": 0,
+      "Rune Wars (25 BN - 3 BN)": 0,
+      "Connected Cities (772 AN - Present)": 0,
+      "Westward Migration (6000 - 5000 BN)": 0
+    },
+    "id": 13,
+    "name": "Zaun",
+    "description": "Zaun, also known as the City of Iron and Glass, is a large undercity district lying in the deep canyons and valleys threading Piltover. What light reaches below is filtered through fumes leaking from the tangles of corroded pipework and reflected from the stained glass of its industrial architecture. Zaun and Piltover were once united, but are now separate, yet symbiotic societies. Though it exists in perpetual smogged twilight, Zaun thrives, its people vibrant and its culture rich. Piltover\u0027s wealth has allowed Zaun to develop in tandem; a dark mirror of the city above. Many of the goods coming to Piltover find their way into Zaun\u0027s black markets, and hextech inventors who find the restrictions placed upon them in the city above too restrictive often find their dangerous researches welcomed in Zaun. Unfettered development of volatile technologies and reckless industry has rendered whole swathes of Zaun polluted and dangerous. Streams of toxic runoff stagnate in the city\u0027s lower reaches, but even here people find a way to exist and prosper.",
+    "relatedChampions": {
+      "Warwick": 149,
+      "Ziggs": 161,
+      "Viktor": 146,
+      "Renata Glasc": 103,
+      "Twitch": 136,
+      "Zeri": 160,
+      "Ekko": 27,
+      "Janna": 46,
+      "Jinx": 51,
+      "Urgot": 138,
+      "Dr. Mundo": 25,
+      "Singed": 117,
+      "Blitzcrank": 15,
+      "Zac": 158
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Zaun_Crest.png/revision/latest?cb\u003d20180116201441"
+  }
+]
