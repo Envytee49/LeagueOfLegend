@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+
+
+<Button id="discoverButton" mnemonicParsing="false" onAction="#switchToChamp" prefHeight="26.0" prefWidth="184.0" style="-fx-background-color: rgb(11, 198, 227); -fx-text-fill: white;" text="DISCOVER MORE CHAMPIONS" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.navigationcontroller.NavigationBarController" />

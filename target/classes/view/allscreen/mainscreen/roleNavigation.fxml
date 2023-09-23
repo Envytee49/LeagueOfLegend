@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="500.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.screencontroller.mainscreen.rolebar.RoleBarController">
+   <children>
+      <Button id="roleButton" fx:id="assasinButton" layoutX="14.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchAssasin" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" text="ASSASINS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button id="roleButton" fx:id="fighterButton" layoutX="94.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchFighter" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" text="FIGHTER">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button id="roleButton" fx:id="mageButton" layoutX="174.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchMage" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" text="MAGES">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button id="roleButton" fx:id="marksmenButton" layoutX="254.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchMarksmen" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" text="MARKSMEN">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button id="roleButton" fx:id="supportButton" layoutX="334.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchSupport" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: transparent;" stylesheets="@../../../css/style.css" text="SUPPORTS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button id="roleButton" fx:id="tankButton" layoutX="414.0" layoutY="1.0" mnemonicParsing="false" onAction="#switchTank" prefHeight="47.0" prefWidth="80.0" style="-fx-background-color: wtransparenthite;" stylesheets="@../../../css/style.css" text="TANKS">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="77.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="leagueoflegend.application.controller.FooController">
+   <children>
+      <Label layoutX="283.0" layoutY="24.0" text="Battle across an icy bridge as your team of random champions charge toward the &#10;enemy Nexus in this chaotically fun 5v5 game mode.&#10;&#10;" textAlignment="CENTER" textFill="WHITE" />
+      <Label layoutX="444.0" layoutY="14.0" style="-fx-font-weight: bold;" text="ALL RANDOM, ALL MID" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

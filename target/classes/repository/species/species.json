@@ -1,0 +1,1007 @@
+[
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Human": 6
+    },
+    "subSpecies": {
+      "Baccai": 33,
+      "God-Warrior": 35,
+      "Aspect Host": 32,
+      "Darkin": 34
+    },
+    "id": 1,
+    "name": "Ascended",
+    "description": "The umbrella term Ascended refers to all humans who were magically altered by a variety of magic, chiefly celestial magic. After their ascension, the Ascended can channel celestial magic through their connection to celestial entities, but do not \"gain\" celestial magic themselves.[1]",
+    "relatedChampions": {
+      "Diana": 24,
+      "Rhaast": 0,
+      "Nasus": 84,
+      "Varus": 139,
+      "Pantheon": 94,
+      "Zoe": 163,
+      "Taric": 129,
+      "Leona": 68,
+      "Naafiri": 82,
+      "Azir": 12,
+      "Renekton": 104,
+      "Aatrox": 1,
+      "Xerath": 152
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Azir_RiseoftheAscended_Concept_03.png/revision/latest/scale-to-width-down/350?cb\u003d20181117042900"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 2,
+    "name": "Brackern",
+    "description": "The Brackern are a species of sapient, crystalline scorpions with great magical power that live peacefully in Shurima.",
+    "relatedChampions": {
+      "Skarner": 120
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Skarner_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021041751"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Meep": 0,
+      "Celestial Dragon": 37,
+      "Aspect": 36,
+      "Sparklefly": 0
+    },
+    "id": 3,
+    "name": "Celestial",
+    "description": "The umbrella term Celestial refers to all the beings that originate from the celestial realm beyond Runeterra.",
+    "relatedChampions": {
+      "Soraka": 122,
+      "Aurelion Sol": 11,
+      "Bard": 13
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Bard_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021095528"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Celestial Dragon": 37,
+      "Terrestrial Dragon": 38
+    },
+    "id": 4,
+    "name": "Dragon",
+    "description": "The word Dragon is, within the Multiverse, an umbrella term that refers to all the beings with reptilian morphology that come from the draconic lineage. Creatures that fall under this term can be split between Celestial Dragons or Terrestrial Dragons by way of their origins.",
+    "relatedChampions": {
+      "Aurelion Sol": 11,
+      "Shyvana": 116
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Dragon_Species_Collage_01.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210623231639"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Sentinel": 0,
+      "Minion": 39,
+      "Krug": 0
+    },
+    "id": 5,
+    "name": "Golem",
+    "description": "Whether organic or inorganic in origin, Golems are artificial constructs designed or inevitably created by sentient hands to provide a tireless aide for the plethora of purposes it was made for, usually combining multiple capabilities for a multitude of work or a focused specialty otherwise unachievable by a normal person. Golems are made with either a semblance of intelligence or full-fledged sentience, although creation of them are frowned upon by people for reasons ranging from ethical to moral.",
+    "relatedChampions": {
+      "Malphite": 74,
+      "Blitzcrank": 15,
+      "Orianna": 92,
+      "Briar": 0,
+      "Zac": 158,
+      "Galio": 34
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/01PZ006-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200407030114"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Ascended": 1,
+      "Vastaya": 12
+    },
+    "id": 6,
+    "name": "Human",
+    "description": "Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.",
+    "relatedChampions": {
+      "Jarvan IV": 47,
+      "Xin Zhao": 153,
+      "Akshan": 4,
+      "Quinn": 98,
+      "Ekko": 27,
+      "K\u0027Sante": 52,
+      "Nunu": 0,
+      "Fiora": 32,
+      "Akali": 3,
+      "Talon": 128,
+      "Vi": 144,
+      "Samira": 109,
+      "Riven": 106,
+      "Jayce": 49,
+      "Miss Fortune": 79,
+      "Darius": 23,
+      "Sivir": 119,
+      "Vayne": 140,
+      "Draven": 26,
+      "Graves": 39,
+      "Lucian": 71,
+      "Garen": 36,
+      "Caitlyn": 18,
+      "Katarina": 58,
+      "Gragas": 38
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Human_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210624194958"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 7,
+    "name": "Minotaur",
+    "description": "Minotaurs are enormous humanoid bovines. They live in great tribes in the vicinity of Piltover and Noxus, and are quite noble and valorous in their ways. Many Minotaur clans joined the Noxian war machine; those that opposed the empire have been enslaved and forced to fight as gladiators in the brutal Noxian event known as the Fleshing. Alistar, the Minotaur, is a survivor of this game and seeks to protect his people from the harsh treatment he endured. Some minotaurs migrated to Demacia and integrated into the kingdom\u0027s society; there are even some in the Dauntless Vanguard.",
+    "relatedChampions": {
+      "Alistar": 5
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Minotaur_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210814165500"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0,
+      "Non-Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Luonn Kon": 43,
+      "Yordle": 48,
+      "Fae Fawn": 42,
+      "River Sprite": 0,
+      "Nixie": 45,
+      "Demon": 40,
+      "Fuemigo": 0,
+      "Spirit Tree": 0,
+      "Naga": 44,
+      "Spirit God": 46,
+      "Treant": 47,
+      "Faerie": 41
+    },
+    "id": 8,
+    "name": "Spirit",
+    "description": "As creatures that inhabit the ether and are divorced from the mortality that mortals suffer, spirits are similar to Celestials in a sense that they help maintain the balance of the natural world, intervening every now and then, whether the causes they support are maligned by mortals or revered by them. Spirits are deathless, returning to the ether when their physical vessels are destroyed and return again to continue their crusade. Often these spirits beings, or spirits empowered beings, also seem to have some sort of natural ability to alter their physicality. Spirits are seemingly not tied to a shape or to time in the same way physical beings are.[1][2][3][4]",
+    "relatedChampions": {
+      "Kindred": 63,
+      "Ziggs": 161,
+      "Fizz": 33,
+      "Kled": 64,
+      "Maokai": 76,
+      "Tristana": 132,
+      "Vex": 143,
+      "Fiddlesticks": 31,
+      "Ivern": 45,
+      "Lulu": 72,
+      "Gnar": 37,
+      "Teemo": 130,
+      "Kennen": 61,
+      "Nocturne": 89,
+      "Lillia": 69,
+      "Veigar": 141,
+      "Corki": 22,
+      "Rumble": 107,
+      "Poppy": 95,
+      "Ornn": 93,
+      "Heimerdinger": 42,
+      "Janna": 46,
+      "Evelynn": 29,
+      "Volibear": 148,
+      "Anivia": 7,
+      "Shaco": 114,
+      "Tahm Kench": 126
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Kindred_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021191912"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 9,
+    "name": "Titan",
+    "description": "Titans were a species of humongous bipedal beings, towering over mountains by great lengths. They orginated from the sky, falling down on the First Lands at the beginning of recorded history. They went extinct after being defeated by the Vastayashai\u0027rei during the Titan War.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Ionia_An_Ancient_And_Respected_History.jpg/revision/latest/scale-to-width-down/350?cb\u003d20180515045350"
+  },
+  {
+    "title": {},
+    "parentSpecies": {},
+    "subSpecies": {
+      "Sand-Troll": 0,
+      "Giant-Troll": 0,
+      "Grass-Troll": 0,
+      "Frost-Troll": 0
+    },
+    "id": 10,
+    "name": "Troll",
+    "description": "Trolls are a grotesque, humanoid species that inhabit the Freljord and Shurima. Frost-trolls of the Freljord are mostly blue-skinned and live in tribes. Lately, the frost-trolls have begun preparing for war, rallying under the banner of Trundle, the Troll King. There are also sand-trolls that live in Shurima and Ixtal and giant-trolls scattered across Valoran. It is unknown how many sand-trolls and giant-trolls are still extant, as their kind are considered a myth in modern times.",
+    "relatedChampions": {
+      "Trundle": 133
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Troll_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210623222845"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Wraith": 50,
+      "Revenant": 49
+    },
+    "id": 11,
+    "name": "Undead",
+    "description": "The word Undead is an umbrella term that refers to entities comprised of either a solitary soul or a fusion of souls originating from one or several mortal species and are tethered to the physical realm through physical or magical medium. An example of a physical medium would be a body or an armor. Mordekaiser was able to resurrect by being bound to an armor piece. A magical-natured medium example would be the Wraiths bound to the Black Mist. They are not able to leave the Shadow Isles on their own. Only when the Harrowing starts and the Mist creeps towards Bilgewater are they able to go beyond the shores of the Isles.",
+    "relatedChampions": {
+      "Hecarim": 41,
+      "Nautilus": 85,
+      "Kalista": 54,
+      "Sion": 118,
+      "Pyke": 96,
+      "Viego": 145,
+      "Karthus": 56,
+      "Thresh": 131,
+      "Mordekaiser": 80,
+      "Senna": 111
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/01SI041-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200407033905"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Human": 6,
+      "Vastayashai\u0027rei": 13
+    },
+    "subSpecies": {
+      "Chyra": 0,
+      "Fauhwoon": 0,
+      "Raylu": 0,
+      "Vastayan-Human hybrids": 0,
+      "Vlotah": 0,
+      "Strig": 0,
+      "Marai": 53,
+      "Ophelis": 0,
+      "Oovi-Kat": 0,
+      "Many other subspecies": 0,
+      "Kiilash": 0,
+      "Ottrani": 54,
+      "Besheb": 0,
+      "Sodjoko": 0,
+      "Canghapi": 0,
+      "Shimon": 0,
+      "Makara": 0,
+      "Skard": 0,
+      "Kepthalla": 0,
+      "Lhotlan": 0,
+      "Vesani": 57,
+      "Juloah": 0,
+      "Khonlui": 0
+    },
+    "id": 12,
+    "name": "Vastaya",
+    "description": "The Vastaya are a chimeric race of Runeterra that are the weaker magical descendants from enlightened mortals that took the power of the spirit realm into themselves known as the Vastayashai\u0027rei. From the ferocious, bestial power of Rengar to the foxlike allure of Ahri, vastaya can look considerably different from one another, but they all share animal and human characteristics.",
+    "relatedChampions": {
+      "Ahri": 2,
+      "Xayah": 151,
+      "Wukong": 150,
+      "Neeko": 86,
+      "Rakan": 99,
+      "Nami": 83,
+      "Rengar": 105
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Vastaya_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210624164844"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Vastaya": 12
+    },
+    "id": 13,
+    "name": "Vastayashai\u0027rei",
+    "description": "The Vastayashai\u0027rei are an ancient, presumably extinct, species that originated from enlightened mortals that took the power of the spirit realm into themselves.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Species_Render.png/revision/latest/scale-to-width-down/350?cb\u003d20201228122000"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0,
+      "Non-sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Void Corrupted Species": 0,
+      "Rift Herald": 0,
+      "Baron Nashor": 0,
+      "Xer\u0027Sai": 0
+    },
+    "id": 14,
+    "name": "Voidborn",
+    "description": "Voidborn are Runeterran beings constructed by the Watchers of The Void. Their reason for existing is to accept, consume, and learn all the information about Runeterra necessary enough to aid for the eventual return of the Watchers.",
+    "relatedChampions": {
+      "Cho\u0027Gath": 21,
+      "Kha\u0027Zix": 62,
+      "Rek\u0027Sai": 101,
+      "Kog\u0027Maw": 65,
+      "Vel\u0027Koz": 142,
+      "Bel\u0027Veth": 14
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Vel%27Koz_A_Different_Hunger.jpg/revision/latest/scale-to-width-down/350?cb\u003d20180820210903"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 15,
+    "name": "Watcher",
+    "description": "The Watchers, also known as the Frozen Watchers or the Pierce-Eyes, are ancient beings of The Void and the masters above all living Voidborns, as well as creators of the prototype models of the modern ones. They are responsible for transforming Freljord native beings into Iceborn, who would later rebel against The Watchers\u0027 rule. In the mostly forgotten myth, the Howling Abyss was built to contain The Watchers by Ornn at the request of the Three Iceborn Sisters.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/04FR005T4-full.png/revision/latest/scale-to-width-down/350?cb\u003d20210224040117"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 16,
+    "name": "Yeti",
+    "description": "A mammalian race that inhabit the Freljord. They are intelligent beings that used to live in harmony with other creatures, like the Yordles. However, after an icy cataclysm that decimated their population, the yeti race was never restored to its original numbers and are a rarity to encounter.",
+    "relatedChampions": {
+      "Willump": 0
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Yeti_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210624191439"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 17,
+    "name": "Azurite Eagle",
+    "description": "Azurite Eagles are an avian predatory species that live in the northern parts of Demacia.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/02DE006T2-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428100444"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 18,
+    "name": "Bubble Bear",
+    "description": "Bubble Bears are creatures resembling Axolotls that live in the shallow waters of the Guardian\u0027s Sea. Their unique body structure gives them an appearance of a living bubble, with sharp claws and hoof-like feet. They feed on magically infused bubbles that emerge from the surrounding vents where they live.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/02BW019-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428074320"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 19,
+    "name": "Cat",
+    "description": "Cats are a sentient and sapient feline race that reside both on Runeterra as well as Bandle City.",
+    "relatedChampions": {
+      "Yuumi": 157
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/03PZ002-full.png/revision/latest/scale-to-width-down/350?cb\u003d20201221094357"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 20,
+    "name": "Chirean",
+    "description": "The Chirean are sapient species living in the sump levels of Zaun.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/53/04PZ005T1-full.png/revision/latest/scale-to-width-down/350?cb\u003d20210503125636"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 21,
+    "name": "Coral Creature",
+    "description": "Coral Creatures are semi-plant species of living coral that live in the shallow waters of the Guardian\u0027s Sea. They display some form of sentients and sapience, being able to stand up right and have poseable hands with which they use for rudimentary tools and to gather and consume magically infused bubbles that emerge from the surrounding vents. They live in large groups and tend to inhabit areas where non-sentient coral is located which they use to disguise themselves from possible predators.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/69/02BW014-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428073723"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 22,
+    "name": "Dredge Dredger",
+    "description": "Dredge Dredgers are goblin-like creatures that live around the Serpent Isles and the Guardian\u0027s Sea. The are sentient and sapient beings able to wear humanoid clothing, use tools, and express themselves. It is unclear if they have one eye or two, since members of their race often wear squids as hats. They have yellow skin and share some visual similarities with Yordles.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/02BW047-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428092658"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 23,
+    "name": "Fish Folk",
+    "description": "Fish Folk are sentient and sapient fish people that live around the Serpent Isles. Their key physical features resemble that of a cat fish as well as the demon, Tahm Kench. A particularly sly 2 one of the Folk is seen in Bilgewater selling black market goods, heavily suggested to be stolen. Media[ ] Gallery Black Market Merchant \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Sixmorevodka Studio) Shakedown \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Kudos Productions) Wise Fry \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Grafit Studio)",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/02BW033-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428085843"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Astronaut": 0,
+      "Toxic": 0,
+      "Blazebattle": 0,
+      "Skydance": 0,
+      "Fresh-water": 0,
+      "Clumsy": 0,
+      "Soft-nosed": 0
+    },
+    "id": 24,
+    "name": "Molediver",
+    "description": "Moledivers are small mole-like mammals adapted to a subterranean lifestyle. They have cylindrical bodies; velvety fur; very small, inconspicuous ears and eyes; reduced hindlimbs; and short, powerful forelimbs with large paws adapted for digging. They are able to wield small tools and equipment.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Molediver_SoftnosedSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20190627092850"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {
+      "Pengu": 25,
+      "Yokai Pengu": 0,
+      "Sakura Pengu": 0,
+      "Cheeper Pengu": 0,
+      "True Ice Pengu": 0,
+      "Kami Pengu": 0,
+      "Ravenlord Pengu": 0,
+      "Extra Spicy Pengu": 0
+    },
+    "id": 25,
+    "name": "Pengu",
+    "description": "",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Featherknight_PenguSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20190624180115"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Rat": 0
+    },
+    "subSpecies": {},
+    "id": 26,
+    "name": "Plague Rat",
+    "description": "Plague Rats are a type of native mammal species that live in Zaun\u0027s Sump Level. Twitch was once a normal plague rat, before he was mutated by chemicals, becoming the only Sapient Plague Rat known to date. Lore[ ] Plague Rat Champions[ ] Twitch Media[ ] Summoner Icons Main article: Summoner icon Tencent Twitch Champie Twitch Medieval Twitch Sapphire Chroma Medieval Twitch Amethyst Chroma",
+    "relatedChampions": {
+      "Twitch": 136
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Twitch_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021104758"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 27,
+    "name": "Poro",
+    "description": "Poros are the mysterious, magical, and much-loved creatures seemingly originating from the Freljord.[1] They have since spread across all of Runeterra, being present on every known continent, in every region and nation.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Poro_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210624183819"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 28,
+    "name": "Shellshocker",
+    "description": "Shellshockers are turtle-like creatures who live in the shallow waters of the Guardian\u0027s Sea. They display some form of sentience and sapience. They are able to stand upright and have opposable fingers with which they use rudimentary tools and organic cannons that fire magically infused bubbles. Media[ ] Gallery Fleet Admiral Shelly \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Kudos Productions) Shellshocker \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Kudos Productions) Slippery Waverider \"Legends of Runeterra\" Illustration (by Riot Contracted Artists Kudos Productions)",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/02BW040-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200428090857"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 29,
+    "name": "Squill",
+    "description": "Squills are squirrel-like creatures with two tails. Previously human, they were transformed to their current state by spirit magic, specifically the magic of The Glade. Lulu is the only one known to polymorph people into Squills.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/03IO008T1-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200825192714"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 30,
+    "name": "Vellox",
+    "description": "The Vellox are chimeric animals with the feature of a human face. It also has the ability to speak.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Species_Render.png/revision/latest/scale-to-width-down/350?cb\u003d20201228122000"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {},
+    "subSpecies": {},
+    "id": 31,
+    "name": "Whump",
+    "description": "Whumps are rodent like mammalian creatures that live in the underbellies of Zaun.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/01PZ053-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200407031806"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Ascended": 1
+    },
+    "subSpecies": {},
+    "id": 32,
+    "name": "Aspect Host",
+    "description": "The term Aspect Host refers to humans magically altered and usually made hosts to the Aspects of Targon Prime.",
+    "relatedChampions": {
+      "Diana": 24,
+      "Pantheon": 94,
+      "Zoe": 163,
+      "Taric": 129,
+      "Leona": 68
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/03MT009T1-full.png/revision/latest/scale-to-width-down/350?cb\u003d20201221063703"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Ascended": 1
+    },
+    "subSpecies": {},
+    "id": 33,
+    "name": "Baccai",
+    "description": "The word Baccai is a broad term used by Shurimans to refer to Ascended beings that, in the Ascended Host\u0027s eyes, were not worthy of being called God-Warriors. The term itself is subjective by nature.[1]",
+    "relatedChampions": {
+      "Xerath": 152
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/04SH081-full.png/revision/latest/scale-to-width-down/350?cb\u003d20210220185548"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Ascended": 1
+    },
+    "subSpecies": {},
+    "id": 34,
+    "name": "Darkin",
+    "description": "The Darkin are believed to be a collection of sentient weapons by Eduard Santangelo[1] and the Shadow Order. In truth, the Darkin are corrupted Ascended who were imprisoned within their own weapons.",
+    "relatedChampions": {
+      "Rhaast": 0,
+      "Naafiri": 82,
+      "Varus": 139,
+      "Aatrox": 1
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Aatrox_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021120902"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Ascended": 1
+    },
+    "subSpecies": {},
+    "id": 35,
+    "name": "God-Warrior",
+    "description": "The God-Warriors are the ascended of Shurima.",
+    "relatedChampions": {
+      "Nasus": 84,
+      "Azir": 12,
+      "Renekton": 104
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Nasus_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20181021060311"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Celestial": 3
+    },
+    "subSpecies": {},
+    "id": 36,
+    "name": "Aspect",
+    "description": "The Aspects are stellar beings that live beyond the physical and spiritual realms of Runeterra, in the Celestial Realm of the City of Gold and Silver. There are related species to the Aspects: Aspect Hosts: Aspect Hosts gain their abilities from the Aspects.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/03MT050-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200825193232"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Dragon (Term)": 0,
+      "Celestial": 3
+    },
+    "subSpecies": {
+      "Eclipse Dragon": 0,
+      "Whiteflame Protector": 0
+    },
+    "id": 37,
+    "name": "Celestial Dragon",
+    "description": "With abilities far beyond their terrestrial kin, the Celestial Dragons are capable of shaping certain aspects of the universe like forging new stars. They have incredibly long lifespans and are seemingly immortal. Aurelion Sol has forged stars since the dawn of time, and now unwillingly serves Targon and its Aspects.",
+    "relatedChampions": {
+      "Aurelion Sol": 11
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/03MT006-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200825192835"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Dragon (Term)": 0
+    },
+    "subSpecies": {
+      "Screeching Dragons": 0,
+      "Dragonling": 0,
+      "Empyrean": 0,
+      "Wyvern": 0,
+      "Basilisk": 0,
+      "Drake-Hound": 0,
+      "Elemental Dragons": 0,
+      "Pseudo Dragons (Distant Descendants) Basilisk Drake-Hound Wyvern": 0
+    },
+    "id": 38,
+    "name": "Terrestrial Dragon",
+    "description": "Terrestrial Dragons are the types of dragons that reside in both the Physical Realm and Spirit Realm.",
+    "relatedChampions": {
+      "Shyvana": 116
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/03DE006-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200825192442"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Golem": 5
+    },
+    "subSpecies": {},
+    "id": 39,
+    "name": "Minion",
+    "description": "",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Minions_2018_April_Fools_promo_01.jpg/revision/latest/scale-to-width-down/350?cb\u003d20180406002550"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {},
+    "id": 40,
+    "name": "Demon",
+    "description": "The Demons are a race of spirits with no inherent form, who are forged and driven by the negative thoughts and feelings of mortals. Specifically, demons malign and manipulate victims to sate their own desires for suffering. Each demon is attuned to a specific emotion, feeding on those emotions until the victim inevitably dies. They have been sighted in numerous locations around Runeterra but they mostly manifest where there is a lot of turmoil and despair.",
+    "relatedChampions": {
+      "Evelynn": 29,
+      "Fiddlesticks": 31,
+      "Nocturne": 89,
+      "Tahm Kench": 126
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Fiddlesticks_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210611190454"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {},
+    "id": 41,
+    "name": "Faerie",
+    "description": "Faerie are playful, winged, humanoid creatures that are smaller than the yordles. They are born from lily flowers in The Glade, as stated by Pix himself. Also, they inhabit the forests of the latter. They have capricious abilities of transfiguration and matter distortion and their glades seem to exist in dimensions far removed from the normal flow of time. One can only enter their glades when invited by a Faerie, as Pix has done with the yordle Lulu.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/03IO017-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200825192746"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit Tree (Dreaming Tree)": 0
+    },
+    "subSpecies": {},
+    "id": 42,
+    "name": "Fae Fawn",
+    "description": "Fae Fawn are a species of spirits that originate from the magically rich spirit forest, most notably the Garden of Forgetting in Ionia.",
+    "relatedChampions": {
+      "Lillia": 69
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Lillia_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20200707201452"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {},
+    "id": 43,
+    "name": "Luonn Kon",
+    "description": "Luonn Kon are giant spirit animals located in Ionia. They take the appearance of massive stone golems and are often benevolent in nature. Some of them assist local inhabitants in creating makeshift dams.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Ionia_The_Luonn-Kon.jpg/revision/latest/scale-to-width-down/350?cb\u003d20180406202255"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {},
+    "id": 44,
+    "name": "Naga",
+    "description": "The Naga are a like amphibic species that lives near the Serpent Isles.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/XatalTheFalseGoddess_Render.png/revision/latest/scale-to-width-down/350?cb\u003d20230107223950"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {
+      "Extra Spicy Nixie": 0,
+      "Nixie": 45,
+      "Rosebloom Nixie": 0,
+      "Vampire Nixie": 0,
+      "Mermaid Nixie": 0,
+      "Neexie": 0
+    },
+    "id": 45,
+    "name": "Nixie",
+    "description": "Nixies are mischievous pranksters from the spirit realm that enjoy playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie\u0027s pranks sometimes take on a life of their own.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Little_Legend_Nixie_profileicon.png/revision/latest?cb\u003d20200603165258"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {
+      "Spirit Tree": 0
+    },
+    "id": 46,
+    "name": "Spirit God",
+    "description": "The Spirit Gods are a race of powerful spirits who represent whole cultures, ideas and civilizations. Their strength depends on the amount of people worshipping them. They exist in multiple locations and have multiple depictions depending on where they are worshipped.",
+    "relatedChampions": {
+      "Kindred": 63,
+      "Volibear": 148,
+      "Ornn": 93,
+      "Anivia": 7,
+      "Janna": 46
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/01FR024-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200407020110"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {
+      "Brambleback": 0
+    },
+    "id": 47,
+    "name": "Treant",
+    "description": "Treants are nature spirits who take on the form of sapient or sentient plant life. A vast majority of these treants were corrupted by the ruination of the Isles and have lost most of their sapience due to it. Maokai is among the very few Blessed Isles treants that survived such a fate, due to the waters of life infused in his heartwood.",
+    "relatedChampions": {
+      "Maokai": 76
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/02SI008-full.png/revision/latest/scale-to-width-down/350?cb\u003d20200413185354"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Spirit": 8
+    },
+    "subSpecies": {},
+    "id": 48,
+    "name": "Yordle",
+    "description": "The Yordle are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City, though some of them have ventured out to live in numerous locations around Runeterra.",
+    "relatedChampions": {
+      "Corki": 22,
+      "Rumble": 107,
+      "Poppy": 95,
+      "Ziggs": 161,
+      "Fizz": 33,
+      "Kled": 64,
+      "Tristana": 132,
+      "Vex": 143,
+      "Heimerdinger": 42,
+      "Amumu": 6,
+      "Lulu": 72,
+      "Gnar": 37,
+      "Teemo": 130,
+      "Kennen": 61,
+      "Norra": 0,
+      "Veigar": 141
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Yordle_Species_Collage.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210623211931"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Undead": 11
+    },
+    "subSpecies": {},
+    "id": 49,
+    "name": "Revenant",
+    "description": "Revenants are souls that were bound to an object in the physical world. This object can either be their old body, hold together by magic, or a vessel like armor, a diving suit or even temporarily sand.",
+    "relatedChampions": {
+      "Nautilus": 85,
+      "Sion": 118,
+      "Pyke": 96,
+      "Mordekaiser": 80
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Pyke_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210923013910"
+  },
+  {
+    "title": {
+      "Sapient": 0,
+      "Sentient": 0
+    },
+    "parentSpecies": {
+      "Undead": 11
+    },
+    "subSpecies": {},
+    "id": 50,
+    "name": "Wraith",
+    "description": "Wraiths are the predominant undead found on the Shadow Isles. These twisted spirits are remnants of their former selves that were ripped away from their living bodies by the Black Mist that oozed out of the Ruined King\u0027s broken heart. The stronger a Wraith\u0027s sense of self is, the stronger it will be as a result.",
+    "relatedChampions": {
+      "Hecarim": 41,
+      "Kalista": 54,
+      "Viego": 145,
+      "Karthus": 56,
+      "Thresh": 131,
+      "Senna": 111
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Viego_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20210923010438"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Vastaya": 12
+    },
+    "subSpecies": {},
+    "id": 53,
+    "name": "Marai",
+    "description": "",
+    "relatedChampions": {
+      "Nami": 83
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Nami_OriginalSkin.jpg/revision/latest/scale-to-width-down/350?cb\u003d20180412204516"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Vastaya": 12
+    },
+    "subSpecies": {},
+    "id": 54,
+    "name": "Ottrani",
+    "description": "The Ottrani are a landwalker sub-species and tribe of vastaya that live in the Astral Grove of Targon.",
+    "relatedChampions": {},
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/03MT055T1-full.png/revision/latest/scale-to-width-down/350?cb\u003d20201015070757"
+  },
+  {
+    "title": {
+      "Sapient": 0
+    },
+    "parentSpecies": {
+      "Vastaya": 12
+    },
+    "subSpecies": {},
+    "id": 57,
+    "name": "Vesani",
+    "description": "",
+    "relatedChampions": {
+      "Ahri": 2
+    },
+    "imageURL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/05IO004T2-full.png/revision/latest/scale-to-width-down/350?cb\u003d20211208030749"
+  }
+]
